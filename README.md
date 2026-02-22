@@ -1,4 +1,4 @@
-# AI-Powered Driver Monitoring System (DMS) 🚗
+# AI-Powered Driver Monitoring System  🚗
 
 A robust, real-time fatigue and distraction detection system designed for low-light automotive environments. This project uses a hybrid approach, combining Deep Learning (CNN) with Geometric Analysis (EAR) and Head Pose Estimation.
 
