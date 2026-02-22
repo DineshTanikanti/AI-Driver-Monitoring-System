@@ -34,6 +34,12 @@ The system is built on a modular architecture:
 4. Install dependencies: `pip install -r requirements.txt`.
 5. Run the system: `python main.py`.
 
+## 🏆 Recognition & Publication
+This project was presented at the **ADCOMSYS 2025 International Conference**.
+- **Role**: Author & Presenter
+- **Topic**: Real-Time Driver Fatigue Detection to Enhance Road Safety
+- [View Certificates](https://drive.google.com/drive/folders/1du_Qv4nkvKtdMCl71LEeab18pRpuAMax?usp=drive_link)
+
 ## 📂 Repository Structure
 ```text
 ├── main.py                # Main execution loop
@@ -43,8 +49,4 @@ The system is built on a modular architecture:
 ├── model/                 # AI model and predictors
 └── utils/                 # Audio alerts and logging
 
-## 🏆 Recognition & Publication
-This project was presented at the **ADCOMSYS 2025 International Conference**.
-- **Role**: Author & Presenter
-- **Topic**: Real-Time Driver Fatigue Detection to Enhance Road Safety
-- [View Certificates](https://drive.google.com/drive/folders/1du_Qv4nkvKtdMCl71LEeab18pRpuAMax?usp=drive_link)
+
