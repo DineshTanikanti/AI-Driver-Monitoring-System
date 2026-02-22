@@ -42,3 +42,9 @@ The system is built on a modular architecture:
 ├── logic/                 # Decision making logic
 ├── model/                 # AI model and predictors
 └── utils/                 # Audio alerts and logging
+
+## 🏆 Recognition & Publication
+This project was presented at the **ADCOMSYS 2025 International Conference**.
+- **Role**: Author & Presenter
+- **Topic**: Real-Time Driver Fatigue Detection to Enhance Road Safety
+- [View Certificates](https://drive.google.com/drive/folders/1du_Qv4nkvKtdMCl71LEeab18pRpuAMax?usp=drive_link)
